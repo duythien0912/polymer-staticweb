@@ -1,5 +1,5 @@
 # polymer-app
-[![DEMO](https://titan-4ae3c.firebaseapp.com/)]
+[[DEMO](https://titan-4ae3c.firebaseapp.com/)]
 # Install Polymer CLI
 npm install -g polymer-cli
 # Initialize your project from a template
